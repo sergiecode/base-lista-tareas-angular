@@ -5,3 +5,13 @@ En este repositorio tienes los estilos para la app lista de tareas del curso ANG
 
 ## Enlace al curso:
 [Enlace a ANGULAR DESDE CERO](https://youtu.be/soInCF7nbDw)
+
+## Me pueden encontrar en: 
+
+[Canal de Youtube | Sergie Code](https://www.youtube.com/@SergieCode)
+
+[Github | Sergie Code](https://github.com/sergiecode)
+
+[LinkedIn | Sergie Code](https://www.linkedin.com/in/sergiecode/)
+
+[Instagram | Sergie Code](https://www.instagram.com/sergiecode)
